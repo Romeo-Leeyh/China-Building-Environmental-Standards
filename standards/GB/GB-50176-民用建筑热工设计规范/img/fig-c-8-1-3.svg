@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 220" width="180" height="220" role="img" aria-labelledby="title desc">
+  <title id="title">水平遮阳光斑形状3</title>
+  <desc id="desc">左上部为阴影区，其余为光照区。</desc>
+  <defs>
+    <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#000" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect x="2" y="2" width="176" height="216" fill="#fff"/>
+  <polygon points="2,2 178,2 2,96" fill="url(#hatch)"/>
+  <rect x="12" y="28" width="92" height="40" fill="#fff"/>
+  <text x="58" y="57" text-anchor="middle" font-family="SimSun, Songti SC, Noto Serif CJK SC, serif" font-size="28" font-weight="700">阴影区</text>
+  <text x="112" y="166" text-anchor="middle" font-family="SimSun, Songti SC, Noto Serif CJK SC, serif" font-size="28" font-weight="700">光照区</text>
+  <rect x="2" y="2" width="176" height="216" fill="none" stroke="#000" stroke-width="3"/>
+  <line x1="2" y1="96" x2="178" y2="2" stroke="#000" stroke-width="3"/>
+</svg>
