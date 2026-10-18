@@ -1,0 +1,253 @@
+﻿{
+    "schema_version":  "1.0",
+    "language":  "zh-CN",
+    "source_root":  "D:\\BaiduSyncdisk\\Research\\202605标准信息化\\中国",
+    "standards":  [
+                      {
+                          "id":  "GB 50176-2016",
+                          "title":  "民用建筑热工设计规范",
+                          "english_title":  "Code for thermal design of civil building",
+                          "domain":  [
+                                         "热工",
+                                         "保温",
+                                         "隔热",
+                                         "防潮"
+                                     ],
+                          "key_content":  [
+                                              "热工计算基本参数和方法",
+                                              "建筑热工设计原则",
+                                              "围护结构保温设计",
+                                              "围护结构隔热设计",
+                                              "围护结构防潮设计"
+                                          ],
+                          "status":  "formatted",
+                          "formatted_files":  [
+                                                  "standards/GB/GB-50176-民用建筑热工设计规范/GB50176-2016.md"
+                                              ],
+                          "source_files":  [
+                                               "GB50176-2016 民用建筑热工设计规范/20181225091027gU41ehbu.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-50176-民用建筑热工设计规范/GB50176-2016.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB 50189-2015",
+                          "title":  "公共建筑节能设计标准",
+                          "domain":  [
+                                         "公共建筑",
+                                         "节能设计"
+                                     ],
+                          "key_content":  [
+                                              "建筑与建筑热工",
+                                              "供暖通风与空气调节",
+                                              "电气与照明",
+                                              "可再生能源利用"
+                                          ],
+                          "status":  "pdf_only",
+                          "formatted_files":  [
+
+                                              ],
+                          "source_files":  [
+                                               "GB50189-2015 公共建筑节能设计标准/P020250320615894130856.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-50189-公共建筑节能设计标准/GB50189-2015.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB 50352-2019",
+                          "title":  "民用建筑设计统一标准",
+                          "english_title":  "Uniform standard for design of civil buildings",
+                          "domain":  [
+                                         "建筑设计",
+                                         "通用要求"
+                                     ],
+                          "key_content":  [
+                                              "基本规定",
+                                              "建筑设计",
+                                              "室内环境",
+                                              "建筑设备"
+                                          ],
+                          "status":  "pdf_only",
+                          "formatted_files":  [
+
+                                              ],
+                          "source_files":  [
+                                               "GB50352-2019 民用建筑设计统一标准/GB50352-2019民用建筑设计统一标准.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-50352-民用建筑设计统一标准/GB50352-2019.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB 50736-2012",
+                          "title":  "民用建筑供暖通风与空气调节设计规范",
+                          "domain":  [
+                                         "供暖",
+                                         "通风",
+                                         "空气调节",
+                                         "室内环境"
+                                     ],
+                          "key_content":  [
+                                              "室内外设计计算参数",
+                                              "供暖",
+                                              "通风",
+                                              "空气调节",
+                                              "冷热源与水系统",
+                                              "消声与隔振"
+                                          ],
+                          "status":  "pdf_only",
+                          "formatted_files":  [
+
+                                              ],
+                          "source_files":  [
+                                               "GB50736-2012 民用建筑供暖通风与空气调节设计规范/P020250320614289923458.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-50736-民用建筑供暖通风与空气调节设计规范/GB50736-2012.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB 55015-2021",
+                          "title":  "建筑节能与可再生能源利用通用规范",
+                          "english_title":  "General code for energy efficiency and renewable energy application in buildings",
+                          "domain":  [
+                                         "建筑节能",
+                                         "可再生能源",
+                                         "强制性工程建设规范"
+                                     ],
+                          "key_content":  [
+                                              "建筑节能设计",
+                                              "围护结构热工性能",
+                                              "暖通空调与给排水节能",
+                                              "可再生能源应用",
+                                              "运行管理"
+                                          ],
+                          "status":  "source_text",
+                          "formatted_files":  [
+                                                  "standards/GB/GB-55015-建筑节能与可再生能源利用通用规范/GB55015-2021.md"
+                                              ],
+                          "source_files":  [
+                                               "GB55015-2021 建筑节能与可再生能源利用通用规范/1651802845444180.pdf",
+                                               "GB55015-2021 建筑节能与可再生能源利用通用规范/wiki.txt"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-55015-建筑节能与可再生能源利用通用规范/GB55015-2021.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB 55031-2022",
+                          "title":  "民用建筑通用规范",
+                          "domain":  [
+                                         "民用建筑",
+                                         "通用要求",
+                                         "强制性工程建设规范"
+                                     ],
+                          "key_content":  [
+                                              "建筑功能",
+                                              "建筑空间",
+                                              "建筑部件与构造",
+                                              "室内环境",
+                                              "建筑设备"
+                                          ],
+                          "status":  "pdf_only",
+                          "formatted_files":  [
+
+                                              ],
+                          "source_files":  [
+                                               "GB55031-2022 民用建筑通用规范/P020220909629255603704.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-55031-民用建筑通用规范/GB55031-2022.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB/T 18883-2022",
+                          "title":  "室内空气质量标准",
+                          "domain":  [
+                                         "室内环境",
+                                         "空气质量",
+                                         "健康"
+                                     ],
+                          "key_content":  [
+                                              "物理性指标",
+                                              "化学性指标",
+                                              "生物性指标",
+                                              "采样与检验方法",
+                                              "评价与控制"
+                                          ],
+                          "status":  "pdf_only",
+                          "formatted_files":  [
+
+                                              ],
+                          "source_files":  [
+                                               "GBT 18883-2022 室内空气质量标准/ZgwODgwF.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GBT/GBT-18883-室内空气质量标准/GBT-18883-2022.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB/T 50378",
+                          "title":  "绿色建筑评价标准",
+                          "domain":  [
+                                         "绿色建筑",
+                                         "性能评价",
+                                         "评分"
+                                     ],
+                          "key_content":  [
+                                              "安全耐久",
+                                              "健康舒适",
+                                              "生活便利",
+                                              "资源节约",
+                                              "环境宜居",
+                                              "提高与创新"
+                                          ],
+                          "status":  "formatted",
+                          "formatted_files":  [
+                                                  "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2006.md",
+                                                  "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2014.md",
+                                                  "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2019.md",
+                                                  "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2019-2024.md"
+                                              ],
+                          "source_files":  [
+                                               "GBT 50378-2019 绿色建筑评价标准/gbt50378-2019.pdf",
+                                               "GBT 50378-2019 绿色建筑评价标准/绿色建筑评价标准2024-扫描版-17M版.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2006.pdf",
+                                            "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2014.pdf",
+                                            "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2019.pdf",
+                                            "standards/GBT/GBT-50378-绿色建筑评价标准/GBT-50378-2019-2024.pdf"
+                                        ]
+                      },
+                      {
+                          "id":  "GB/T 51366-2019",
+                          "title":  "建筑碳排放计算标准",
+                          "english_title":  "Standard for building carbon emission calculation",
+                          "domain":  [
+                                         "建筑碳排放",
+                                         "生命周期",
+                                         "碳排放因子"
+                                     ],
+                          "key_content":  [
+                                              "运行阶段碳排放",
+                                              "建造及拆除阶段碳排放",
+                                              "建材生产及运输阶段碳排放",
+                                              "主要能源碳排放因子"
+                                          ],
+                          "status":  "formatted",
+                          "formatted_files":  [
+                                                  "standards/GBT/GBT-51366-建筑碳排放计算标准/GBT-51366-2019.md"
+                                              ],
+                          "source_files":  [
+                                               "GBT 51366-2019 建筑碳排放计算标准/GB／T51366-2019建筑碳排放计算标准.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GBT/GBT-51366-建筑碳排放计算标准/GBT-51366-2019.pdf"
+                                        ]
+                      }
+                  ]
+}
+
