@@ -137,6 +137,35 @@
                                         ]
                       },
                       {
+                          "id":  "GB 55016-2021",
+                          "title":  "建筑环境通用规范",
+                          "domain":  [
+                                         "建筑声环境",
+                                         "建筑光环境",
+                                         "建筑热工",
+                                         "室内空气质量"
+                                     ],
+                          "key_content":  [
+                                              "隔声、吸声、消声与隔振设计",
+                                              "采光与室内外照明设计",
+                                              "围护结构保温、防热与防潮设计",
+                                              "室内空气污染物及材料控制",
+                                              "检测与验收",
+                                              "声环境功能区、光气候、建筑气候及建筑热工设计区划"
+                                          ],
+                          "status":  "formatted",
+                          "formatted_files":  [
+                                                  "standards/GB/GB-55016-建筑环境通用规范/GB55016-2021.md",
+                                                  "standards/GB/GB-55016-建筑环境通用规范/GB55016-2021.wikitxt"
+                                              ],
+                          "source_files":  [
+                                               "standards/GB/GB-55016-建筑环境通用规范/GB55016-2021.pdf"
+                                           ],
+                          "pdf_files":  [
+                                            "standards/GB/GB-55016-建筑环境通用规范/GB55016-2021.pdf"
+                                        ]
+                      },
+                      {
                           "id":  "GB 55031-2022",
                           "title":  "民用建筑通用规范",
                           "domain":  [
@@ -151,9 +180,10 @@
                                               "室内环境",
                                               "建筑设备"
                                           ],
-                          "status":  "pdf_only",
+                          "status":  "formatted",
                           "formatted_files":  [
-
+                                                  "standards/GB/GB-55031-民用建筑通用规范/GB55031-2022.md",
+                                                  "standards/GB/GB-55031-民用建筑通用规范/GB55031-2022.wikitxt"
                                               ],
                           "source_files":  [
                                                "GB55031-2022 民用建筑通用规范/P020220909629255603704.pdf"
@@ -248,6 +278,6 @@
                                             "standards/GBT/GBT-51366-建筑碳排放计算标准/GBT-51366-2019.pdf"
                                         ]
                       }
+
                   ]
 }
-
